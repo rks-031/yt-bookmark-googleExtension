@@ -49,6 +49,19 @@
     }
   };
 
+  const updateURL = () => {
+    const trail = "&ytExt=ON";
+    const url = window.location.href;
+
+    if (
+      url.includes("youtube.com/watch") &&
+      !url.includes(trail) &&
+      !url.includes("ab_channel")
+    ) {
+      window.location.href += trail;
+    }
+  };
+
   chrome.runtime.onMessage.addListener((obj, sender, response) => {
     const { type, value, videoId } = obj;
 
@@ -68,6 +81,9 @@
       response(currentVideoBookmarks);
     }
   });
+
+  // Call updateURL function to force URL update if necessary
+  updateURL();
 
   newVideoLoaded();
 })();
