@@ -12,9 +12,13 @@ The icon looks like this:
 
 ![image](https://github.com/rks-031/yt-bookmark-googleExtension/assets/103258259/e7b39ec3-0f10-4d19-89f7-b046c715ac91)
 
-#Screenshot of how the book-marks appear:
+# Screenshot of how the book-marks appear:
 
 ![image](https://github.com/rks-031/yt-bookmark-googleExtension/assets/103258259/f825d37b-8a88-4b48-8365-a4d45401ba70)
+
+# Screenshot of what the extension says when it's not a youtube page:
+
+![image](https://github.com/rks-031/yt-bookmark-googleExtension/assets/103258259/3116c68a-a6f3-43c4-b014-748f9c777c1a)
 
 # Steps to use this extension:
 
