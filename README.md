@@ -6,7 +6,7 @@ The icon looks like this:
 <br>
 # Screenshot of the extension:
 
-![image](https://github.com/rks-031/yt-bookmark-googleExtension/assets/103258259/eb139f9e-d83d-4b6d-98e7-927064f64f5e)
+![image](https://github.com/rks-031/yt-bookmark-googleExtension/assets/103258259/8fa610bf-1245-4088-931c-14d6755042bc)
 
 # Screenshot of a youtube video after enabling the extension:
 
