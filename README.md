@@ -2,7 +2,7 @@ After enabling this extension, a plus icon will be shown on every youtube video 
 <br>
 The icon looks like this: 
 <br>
-<img src=" assets/bookmark.png " style="height:40px;"/>
+<img src="assets/bookmark.png" style="height:40px;"/>
 <br>
 # Screenshot of the extension:
 
