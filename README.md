@@ -1,9 +1,6 @@
 After enabling this extension, a plus icon will be shown on every youtube video on Google Chrome that's gonna allow us to bookmark a particular time-stamp on a youtube video.
 <br>
-The icon looks like this: 
-<br>
-<img src="assets/bookmark.png" style="height:40px;"/>
-<br>
+
 # Screenshot of the extension:
 
 ![image](https://github.com/rks-031/yt-bookmark-googleExtension/assets/103258259/8fa610bf-1245-4088-931c-14d6755042bc)
